@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349982590396",
+    "project_id": "interview-prep-7b4d5",
+    "storage_bucket": "interview-prep-7b4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349982590396:android:2d6eba98233022ddd117b9",
+        "android_client_info": {
+          "package_name": "com.example.interviewprep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUOJoDQRKHCGtv8-eosxAsfNnYMxivNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
